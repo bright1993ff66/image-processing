@@ -3,10 +3,10 @@
 Here is a repository showing some common pattern recognition tasks and my solution.
 
 ## 1. Datasets
-[MNIST](http://yann.lecun.com/exdb/mnist/)
-[VOC 2007 and VOC 2012](https://pjreddie.com/projects/pascal-voc-dataset-mirror/)
-[CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html)
-[Caltech_256](http://www.vision.caltech.edu/Image_Datasets/Caltech256/)
+[MNIST](http://yann.lecun.com/exdb/mnist/)  
+[VOC 2007 and VOC 2012](https://pjreddie.com/projects/pascal-voc-dataset-mirror/)  
+[CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html)  
+[Caltech_256](http://www.vision.caltech.edu/Image_Datasets/Caltech256/)  
 [Imagenet](http://image-net.org/)
 
 ## 2. Interesting Links
